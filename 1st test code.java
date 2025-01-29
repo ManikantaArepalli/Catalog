@@ -56,3 +56,34 @@ public class PolynomialConstantTerm {
         System.out.println("The constant term of the polynomial is: " + constantTerm);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT :
+Root 1: Base 10, Value 4 -> Decimal:4
+Root 2: Base 2, Value 111 -> Decimal:7
+Root 3: Base 10, Value 12 -> Decimal:12
+Root 6: Base 4, Value 213 -> Decimal:39
+
+
+here k=3 and m=2. for calculating constant term
+    c=(-1)^m * r1 * r2 * .... rm
+
+So,
+    c=(-1)^2 * 4 * 7 * 12
+    = 336
