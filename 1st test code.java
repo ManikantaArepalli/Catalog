@@ -86,4 +86,4 @@ here k=3 and m=2. for calculating constant term
 
 So,
     c=(-1)^2 * 4 * 7 * 12
-    = 336
+    = -336
